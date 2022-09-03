@@ -6,7 +6,7 @@ Link: https://nlam1170.github.io/CS4395_Repo
 My answers to the assignment can be viewed [here](nlp_overview_assignment.pdf)
 
 ## Assignment 1
-My code for the assignment can be viewed [here](Assignment1/run.py)
+My code for the assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment1/run.py)
 
 ### Program Description
 The program reads in a data file containing different information about employees. It performs some validation on the file, such as checking for a valid ID format, and prompting the user to enter the correct ID if the ID is found to be invalid. It then creates a dictionary object containing different Person classes for each employee in the input file. That dictionary is then serialize into a pickle file, then deserialize back by python and prety printed
