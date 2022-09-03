@@ -82,7 +82,7 @@ def parse_file(file):
         #get the last name and capitalize it
         first = line[1].capitalize()
         #no middle name might exist so just return X otherwise get capitalize middle initial
-        middle = "X" if len(line) == "" else line[2].upper()
+        middle = "X" if line[2] == "" else line[2].upper()
         #get the id, using the hlper function for validation and input
         id = parse_id(line[3])
         #get the phone number using the helper function for validationa and input
