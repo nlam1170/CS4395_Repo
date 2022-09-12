@@ -25,4 +25,5 @@ I have been using python for quite a while, so I was familiar how to do most of 
 
 ## Assignment 2
 My code for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment2/assignment2.ipynb)
+
 The rendered PDF for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment2/assignment2.pdf)
