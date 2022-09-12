@@ -22,3 +22,7 @@ Python is very nice in that it is very easy to start writing code and have a wor
 
 ### What I Learned
 I have been using python for quite a while, so I was familiar how to do most of the tasks for this assignment. However I did learn how to use the regex library better, since regex is something that I mostly try to avoid for my personal use. I also learned how to use the pickle library and format. This is a format that I have never worked with in the past, so that was useful as well. The other python related tasks such as classes and working with files was still a good review for me.
+
+## Assignment 2
+My code for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment2/assignment2.ipynb)
+The rendered PDF for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment2/assignment2.pdf)
