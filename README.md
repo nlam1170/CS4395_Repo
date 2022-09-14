@@ -1,4 +1,4 @@
-# CS4395_Repo
+# CS4395 - Intro To NLP
 
 [Link to this page](https://nlam1170.github.io/CS4395_Repo)
 
@@ -27,3 +27,12 @@ I have been using python for quite a while, so I was familiar how to do most of 
 My code for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment2/assignment2.ipynb)
 
 The rendered PDF for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment2/assignment2.pdf)
+
+## Assignment 3
+My code for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment3/run.py)
+
+### How To Run
+An input file should be specified like below.
+
+Example:\
+`python3 run.py anat19.txt`
