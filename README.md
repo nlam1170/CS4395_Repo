@@ -36,3 +36,8 @@ An input file should be specified like below.
 
 Example:\
 `python3 run.py anat19.txt`
+
+## Assignment 4
+My code for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment4/assignment4.ipynb)
+
+The rendered PDF for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment4/assignment4.pdf)
