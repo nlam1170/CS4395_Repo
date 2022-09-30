@@ -41,3 +41,10 @@ Example:\
 My code for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment4/assignment4.ipynb)
 
 The rendered PDF for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment4/assignment4.pdf)
+
+## Assignment 5
+My code for this program1 can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment5/program1.py)
+
+My code for this program2 can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment5/program2.py)
+
+My narrative doc for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment5/narrative.pdf)
