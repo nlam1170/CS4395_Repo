@@ -48,3 +48,8 @@ My code for this program1 can be viewed [here](https://github.com/nlam1170/CS439
 My code for this program2 can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment5/program2.py)
 
 My narrative doc for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment5/narrative.pdf)
+
+## Assignment 6
+My code this assingment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment6/run.py)
+
+My report for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment6/report.docx)
