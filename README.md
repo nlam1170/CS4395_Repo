@@ -50,6 +50,12 @@ My code for this program2 can be viewed [here](https://github.com/nlam1170/CS439
 My narrative doc for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment5/narrative.pdf)
 
 ## Assignment 6
-My code this assingment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment6/run.py)
+My code for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment6/run.py)
 
 My report for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment6/report.docx)
+
+## Assignment 7
+My answers doc for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment7/assignment7.docx)
+
+## Assignment 8
+My code for this assignment can be viewed [here]
