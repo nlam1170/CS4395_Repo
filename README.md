@@ -58,4 +58,7 @@ My report for this assignment can be viewed [here](https://github.com/nlam1170/C
 My answers doc for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment7/assignment7.docx)
 
 ## Assignment 8
-My code for this assignment can be viewed [here]
+My code for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment8/main.ipynb)
+
+The rendered PDF for this assignment can be viewed [here](https://github.com/nlam1170/CS4395_Repo/blob/main/Assignment8/main.pdf)
+
